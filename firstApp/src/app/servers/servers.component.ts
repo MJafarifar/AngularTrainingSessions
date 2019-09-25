@@ -10,11 +10,13 @@ export class ServersComponent implements OnInit {
   creationstatus:boolean=false;
   creationServer:string="No Server does Exist";
   serverName:string="test";
+  servers:string[]=['server 1','server 2'];
 
   constructor() {
     setTimeout(()=>{this.allowthisButton=true;},2000);
   }
   CreationServerMethod(){
+    this.servers.push(this.serverName);
     this.creationstatus=true;
 
   }
