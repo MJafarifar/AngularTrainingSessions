@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d8e996-629c-48d5-a963-772ac794b8eb" name="Default Changelist" comment="" />
+    <list default="true" id="40d8e996-629c-48d5-a963-772ac794b8eb" name="Default Changelist" comment="sampleproject">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -164,10 +166,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23542000" />
+    <option name="totallyTimeSpent" value="24089000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919486" visible="true" weight="0.1790416" />
       <window_info id="Structure" order="1" sideWeight="0.50080514" side_tool="true" weight="0.1790416" />
@@ -180,9 +191,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4934176" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.48867825" visible="true" weight="0.3088553" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5113217" side_tool="true" visible="true" weight="0.3088553" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.48920485" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4870985" weight="0.3088553" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5107952" side_tool="true" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.4997367" weight="0.32937366" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4997367" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -192,6 +203,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
