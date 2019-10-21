@@ -11,6 +11,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="AngularTrainingSessions" />
   </component>
@@ -110,7 +116,7 @@
       <workItem from="1570252135590" duration="599000" />
       <workItem from="1570422844878" duration="1890000" />
       <workItem from="1570529583026" duration="1060000" />
-      <workItem from="1571634987299" duration="522000" />
+      <workItem from="1571634987299" duration="1071000" />
     </task>
     <task id="LOCAL-00001" summary="ngIF">
       <created>1569328943938</created>
@@ -147,18 +153,25 @@
       <option name="project" value="LOCAL" />
       <updated>1571635322951</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sampleproject">
+      <created>1571635604703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571635604703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22993000" />
+    <option name="totallyTimeSpent" value="23542000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1790416" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919486" visible="true" weight="0.1790416" />
+      <window_info id="Structure" order="1" sideWeight="0.50080514" side_tool="true" weight="0.1790416" />
+      <window_info id="Favorites" order="2" sideWeight="0.50080514" side_tool="true" weight="0.1790416" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -167,9 +180,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49552396" weight="0.32937366" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49078462" visible="true" weight="0.3088553" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50921535" side_tool="true" visible="true" weight="0.3088553" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4934176" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.48867825" visible="true" weight="0.3088553" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5113217" side_tool="true" visible="true" weight="0.3088553" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.4997367" weight="0.32937366" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4997367" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -208,7 +221,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ngIF" />
-    <option name="LAST_COMMIT_MESSAGE" value="ngIF" />
+    <MESSAGE value="sampleproject" />
+    <option name="LAST_COMMIT_MESSAGE" value="sampleproject" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/firstApp/node_modules/bootstrap/js/src/tooltip.js">
