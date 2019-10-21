@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d8e996-629c-48d5-a963-772ac794b8eb" name="Default Changelist" comment="" />
+    <list default="true" id="40d8e996-629c-48d5-a963-772ac794b8eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/projectSample/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectSample/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectSample" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/projectSample/angular.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -34,7 +67,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/projectSample" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -76,46 +109,6 @@
               <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
               <item name="projectSample" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -128,6 +121,7 @@
     <property name="editor.config.ad.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="F:\Angular\AngularTrainingSessions\firstApp\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -229,7 +223,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24484000" />
+    <option name="totallyTimeSpent" value="25110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,6 +291,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/projectSample" />
+    </ignored-roots>
     <MESSAGE value="ngIF" />
     <MESSAGE value="sampleproject" />
     <option name="LAST_COMMIT_MESSAGE" value="sampleproject" />
@@ -426,7 +423,7 @@
     <entry file="file://$PROJECT_DIR$/projectSample/angular.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
     </entry>
