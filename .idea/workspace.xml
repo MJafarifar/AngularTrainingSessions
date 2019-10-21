@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="40d8e996-629c-48d5-a963-772ac794b8eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/src/app/server/server.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/src/app/server/server.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/src/app/server/server.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/src/app/server/server.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/src/app/servers/servers.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/src/app/servers/servers.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/src/app/servers/servers.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/src/app/servers/servers.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstApp/angular.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="783">
               <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
             </state>
           </provider>
@@ -41,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/firstApp/src/app/server/server.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -50,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/firstApp/src/app/server/server.component.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -59,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/firstApp/src/app/app-routing.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -70,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstApp/src/app/servers/servers.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+            <state relative-caret-position="567">
+              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -79,7 +75,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/firstApp/src/app/servers/servers.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
+            <state relative-caret-position="377">
               <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="68" />
             </state>
           </provider>
@@ -100,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/firstApp/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -112,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/firstApp/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -147,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,41 +153,49 @@
             <path>
               <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
               <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="firstApp" type="462c0819:PsiDirectoryNode" />
+              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
               <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="firstApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
               <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="firstApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
               <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="firstApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
               <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="firstApp" type="462c0819:PsiDirectoryNode" />
+              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
+              <item name="projectSample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="servers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,7 +238,11 @@
       <workItem from="1569127934393" duration="9543000" />
       <workItem from="1569298246444" duration="55000" />
       <workItem from="1569325978316" duration="1582000" />
-      <workItem from="1569384255217" duration="3082000" />
+      <workItem from="1569384255217" duration="3303000" />
+      <workItem from="1569646343003" duration="611000" />
+      <workItem from="1570252135590" duration="599000" />
+      <workItem from="1570422844878" duration="1890000" />
+      <workItem from="1570529583026" duration="1060000" />
     </task>
     <task id="LOCAL-00001" summary="ngIF">
       <created>1569328943938</created>
@@ -251,16 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1569329124982</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ngIF">
+      <created>1569415867351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569415867351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18090000" />
+    <option name="totallyTimeSpent" value="22471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1790416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -271,9 +285,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49815693" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49605057" weight="0.32937366" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5018431" side_tool="true" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49815693" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4934176" visible="true" weight="0.3088553" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50658244" side_tool="true" visible="true" weight="0.3088553" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.4997367" weight="0.32937366" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4997367" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -332,13 +346,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/firstApp/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstApp/src/app/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstApp/src/app/server/server.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstApp/src/app/server/server.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/firstApp/src/app/app-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstApp/src/app/servers/servers.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -354,7 +403,7 @@
     <entry file="file://$PROJECT_DIR$/firstApp/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
@@ -364,48 +413,13 @@
     <entry file="file://$PROJECT_DIR$/firstApp/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstApp/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstApp/src/app/server/server.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstApp/src/app/server/server.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstApp/src/app/server/server.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstApp/src/app/servers/servers.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/firstApp/src/app/servers/servers.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="377">
           <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="68" />
         </state>
       </provider>
