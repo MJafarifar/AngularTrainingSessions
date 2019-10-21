@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d8e996-629c-48d5-a963-772ac794b8eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40d8e996-629c-48d5-a963-772ac794b8eb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,6 +10,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AngularTrainingSessions" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
@@ -52,11 +53,6 @@
             <path>
               <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
               <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularTrainingSessions" type="462c0819:PsiDirectoryNode" />
-              <item name="firstApp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AngularTrainingSessions" type="b2602c69:ProjectViewProjectNode" />
@@ -114,7 +110,7 @@
       <workItem from="1570252135590" duration="599000" />
       <workItem from="1570422844878" duration="1890000" />
       <workItem from="1570529583026" duration="1060000" />
-      <workItem from="1571634987299" duration="275000" />
+      <workItem from="1571634987299" duration="522000" />
     </task>
     <task id="LOCAL-00001" summary="ngIF">
       <created>1569328943938</created>
@@ -144,16 +140,23 @@
       <option name="project" value="LOCAL" />
       <updated>1571635174584</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ngIF">
+      <created>1571635322951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571635322951</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22746000" />
+    <option name="totallyTimeSpent" value="22993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1790416" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1790416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -164,9 +167,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49657714" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4918378" visible="true" weight="0.3088553" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5081622" side_tool="true" visible="true" weight="0.3088553" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49552396" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49078462" visible="true" weight="0.3088553" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50921535" side_tool="true" visible="true" weight="0.3088553" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.4997367" weight="0.32937366" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4997367" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
