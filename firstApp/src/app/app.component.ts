@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'firstApp';
+
+  serverElements=[{name:"Name test",type:"server",content:"description test"}];
+
+
 }
