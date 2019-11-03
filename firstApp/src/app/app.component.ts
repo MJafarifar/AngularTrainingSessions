@@ -10,5 +10,20 @@ export class AppComponent {
 
   serverElements=[{name:"Name test",type:"server",content:"description test"}];
 
-
+    onServerAdded(serverData:{serverName:string,serverContent:string})
+    {
+      this.serverElements.push({
+        type:'server',
+        name:serverData.serverName,
+        content:serverData.serverContent
+      })
+    }
+  onBluePrintAdded(serverData:{serverName:string,serverContent:string})
+    {
+      this.serverElements.push({
+        type:'bluePrint',
+        name:serverData.serverName,
+        content:serverData.serverContent
+      })
+    }
 }

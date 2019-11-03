@@ -1,12 +1,12 @@
 <!--<h3>This is App Angular</h3>-->
 <!--<app-servers></app-servers>-->
 <div class="container">
-<app-cockpit></app-cockpit>
+<app-cockpit  (bluePrintCreated)="onServerAdded($event)" (serverCreated)="onBluePrintAdded($event)"></app-cockpit>
   <hr>
   <div class="row">
     <div class="col-md-12">
       <div class="card" *ngFor="let element of serverElements">
-        <app-server-element [elements]="element"></app-server-element>
+        <app-server-element [srvElemenet]="element"></app-server-element>
 
       </div>
     </div>
